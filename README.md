@@ -34,3 +34,8 @@ the other are theory type codes
     - [array-distance-to-mean](problems/array-distance-to-mean.c): substract from each element of array the mean
     - [array-number-less-square](problems/array-number-less-square.c): find the number of elements that are less than their square index
     - [array-less-than-half-of-sum](problems/array-less-than-half-of-sum.c): find the number of elements that are less than half of sum
+    - [array-max.c](problems/array-max.c): get the maximum from the array
+    - [array-swap-min-and-max](problems/array-swap-min-and-max.c): swap min and max in array
+    - [array-sum-till-odd-element](problems/array-sum-till-odd-element.c): find the sum of elements standing before an odd element
+    - [array-first-element-from-interval](problems/array-first-element-from-interval.c): find the element in array that is in the given interval
+    - [array-sum-till-element-from-interval](problems/array-sum-till-element-from-interval.c): calculate sum of elements till the element from the given interval
