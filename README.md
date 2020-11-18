@@ -43,3 +43,7 @@ the other are theory type codes
     - [array-neg-pos](problems/array-neg-pos.c): put negative elements on the right part of array, positive on the left
         - [array-neg-pos-2](problems/array-neg-pos-2.c): the other solution
     - [array-type-number-sum](problems/array-type-number-sum.c): sum the numbers presented by arrays
+    - [array-even-odd](problems/array-even-odd.c): divide the elements of the array to the evens and odds
+    - [missing-element](problems/missing-element.c): find the missing element from the interval [1, N]
+        - [missing-element-2](problems/missing-element-2.c): another solution
+    - [array-number-of-repeat](problems/array-number-of-repeat.c): count the number of the repeated numbers
