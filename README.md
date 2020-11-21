@@ -47,3 +47,6 @@ the other are theory type codes
     - [missing-element](problems/missing-element.c): find the missing element from the interval [1, N]
         - [missing-element-2](problems/missing-element-2.c): another solution
     - [array-number-of-repeat](problems/array-number-of-repeat.c): count the number of the repeated numbers
+    - [arrays-merge](problems/arrays-merge.c): merge two sorted arrays to one sorted array
+- pointers
+    - [pointer-array-backwards](problems/pointer-array-backwards.c): type the elements of an array in backwards using pointers
