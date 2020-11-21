@@ -6,9 +6,17 @@ int main(){
     // the name of the array is the pointer to the first element of arr (arr[0], programmists count from 0)
     printf("%p\n", arr);
     printf("%d\n", *arr);
-    // its equivalent to arr[0]
+    // it's equivalent to arr[0]
     printf("%d\n", arr[0]);
 
+    // ok, let's see which address each element has
+    for (int i = 0; i < 5; i++){
+        printf("%p", &arr[i]);
+    }
+    //it's the same 
+    for (int i = 0; i < 5; i++){
+        printf("%p", arr+i);
+    }
     // the elements of array are stored one after another in the memory
     // getting the second element, it comes after first, so we can add 1 to arr
     printf("%d\n", *(arr + 1));
@@ -21,7 +29,6 @@ int main(){
     // C is unsafe language, so be careful not to point (and not to change) the segment of memory 
     // that you don't know what it does (is over the array limits)
     // printf("%d\n", *(arr + 5) += 2);
-
-
+    
     return 0;
 }
