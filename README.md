@@ -48,5 +48,8 @@ the other are theory type codes
         - [missing-element-2](problems/missing-element-2.c): another solution
     - [array-number-of-repeat](problems/array-number-of-repeat.c): count the number of the repeated numbers
     - [arrays-merge](problems/arrays-merge.c): merge two sorted arrays to one sorted array
+    - [array-remove-zeros-zip](problems/array-remove-zeros-zip.c): remove zeros from array and zip it
 - pointers
     - [pointer-array-backwards](problems/pointer-array-backwards.c): type the elements of an array in backwards using pointers
+- functions
+    - 
