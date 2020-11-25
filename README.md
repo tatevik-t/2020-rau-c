@@ -52,4 +52,4 @@ the other are theory type codes
 - pointers
     - [pointer-array-backwards](problems/pointer-array-backwards.c): type the elements of an array in backwards using pointers
 - functions
-    - 
+    - [function-area-of-rectangle](problems/function-area-of-rectangle.c): write a function for area of rectangle
