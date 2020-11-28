@@ -53,3 +53,7 @@ the other are theory type codes
     - [pointer-array-backwards](problems/pointer-array-backwards.c): type the elements of an array in backwards using pointers
 - functions
     - [function-area-of-rectangle](problems/function-area-of-rectangle.c): write a function for area of rectangle
+    - [function-max-digit](problems/function-max-digit.c): write a function that returns the maximum digit of number
+    - [function-prime-factors-count](problems/function-prime-factors-count.c): count number of prime factors
+    - [function-descending-digits](problems/function-descending-digits.c): find out if digits are in descending order
+    - []
