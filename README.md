@@ -56,4 +56,10 @@ the other are theory type codes
     - [function-max-digit](problems/function-max-digit.c): write a function that returns the maximum digit of number
     - [function-prime-factors-count](problems/function-prime-factors-count.c): count number of prime factors
     - [function-descending-digits](problems/function-descending-digits.c): find out if digits are in descending order
-    - []
+    - [function-pointers-change-value-of-variable](problems/function-pointers-change-value-of-variables.c): change values of variables using function
+    - [function-increment-array](problems/function-increment-array.c): increment every element of an array
+    - [function-is-max-symmetric](problems/function-is-max-symmetric.c): is maximum of an array is symmetric
+- recursion
+    - [recursion-sum](problems/recursion-sum.c): sum till n
+    - [recursion-numbers-till-n](problems/recursion-numbers-till-n.c): print numbers till n
+    - [recursion-print-array](problems/recursion-print-array.c): print an array
