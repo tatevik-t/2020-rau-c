@@ -63,3 +63,5 @@ the other are theory type codes
     - [recursion-sum](problems/recursion-sum.c): sum till n
     - [recursion-numbers-till-n](problems/recursion-numbers-till-n.c): print numbers till n
     - [recursion-print-array](problems/recursion-print-array.c): print an array
+    - [recursion-max-element](problems/recursion-max-element.c): find max element in an array
+    - [recursion-sum-frac](problems/recursion-sum-frac.c): calculate 1 + 1/2 + 1/3 + 1/4 ... +1/N 
