@@ -67,3 +67,8 @@ the other are theory type codes
     - [recursion-sum-frac](problems/recursion-sum-frac.c): calculate 1 + 1/2 + 1/3 + 1/4 ... +1/N 
 - string
     - [string-lower-letters](problems/string-lower-letters.c): print only lower letters
+    - [string-delete-th](problems/string-delete-th.c): delete all "th" from the string
+- multidimension arrays
+    - [2d-array-sum-of-matrix](problems/2d-array-sum-of-matrix.c): sum of rows
+    - [2d-array-swap-rows-with-max-and-min](problems/2d-array-swap-rows-with-max-and-min.c): swap two rows that contain maximum and minimum
+    - [2d-matrix-t](problems/2d-matrix-t.c): transpose the matrix
