@@ -72,3 +72,6 @@ the other are theory type codes
     - [2d-array-sum-of-matrix](problems/2d-array-sum-of-matrix.c): sum of rows
     - [2d-array-swap-rows-with-max-and-min](problems/2d-array-swap-rows-with-max-and-min.c): swap two rows that contain maximum and minimum
     - [2d-matrix-t](problems/2d-matrix-t.c): transpose the matrix
+- dynamic memory
+    - [dynamic-array-delete-last-stroke](problems/dynamic-array-delete-last-stroke.c): delete last stroke from dynamic 2d array
+    - [dynamic-array-delete-max-stroke](problems/dynamic-array-delete-max-stroke.c): delete stroke with max element from 2d array
