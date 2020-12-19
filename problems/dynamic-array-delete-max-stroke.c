@@ -1,3 +1,4 @@
+// delete stroke with max element from 2d array
 #include <stdio.h>
 #include <stdlib.h>
 
