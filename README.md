@@ -75,3 +75,6 @@ the other are theory type codes
 - dynamic memory
     - [dynamic-array-delete-last-stroke](problems/dynamic-array-delete-last-stroke.c): delete last stroke from dynamic 2d array
     - [dynamic-array-delete-max-stroke](problems/dynamic-array-delete-max-stroke.c): delete stroke with max element from 2d array
+    - [dynamic-array-delete-stroke-sim-1](problems/dynamic-array-delete-stroke-sim-1.c): delete stroke similar to first stroke from dynamic array
+    - [dynamic-array-delete-column](problems/dynamic-array-delete-column.c): delete specific colon from dynamic array
+    - [dynamic-array-sort-by-first-column](problems/dynamic-array-sort-by-first-column.c): sort the dynamic array by first column
